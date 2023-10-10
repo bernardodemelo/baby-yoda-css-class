@@ -33,15 +33,15 @@ nav a {
 #contact-information + h3 {
     text-decoration: underline;
 }
-
+/* Possible Suspects Section */
 #possible-suspects{
     margin-top: 100px;
-    text-align: center; /* Added this */
+    text-align: center;
 }
 
 #possible-suspects-main-div{
     display: flex;
-    justify-content: space-evenly; /* Added this */
+    justify-content: space-evenly;
 }
 
 .possible-suspects-div{
